@@ -1,5 +1,5 @@
 outs:
-- md5: 0e533db87c24682e8736d8c7c38f90e4.dir
-  size: 310742
+- md5: 67cbcbd6089ce353644d60a6704fe327.dir
+  size: 310768
   nfiles: 2
   path: /home/VICOMTECH/icejudo/PROYECTOS/Proyecto/MiRepoGithub/MLflow-dvc-data/data
